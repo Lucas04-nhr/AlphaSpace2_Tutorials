@@ -1,0 +1,7 @@
+numpy==1.19.5
+scipy==1.13.1
+alphaspace2==0.1.2
+mdtraj==1.10.0
+cython>=0.29.21,<0.29.24
+pandas>=1.0.0,<1.2.0
+matplotlib>=3.1.0,<3.4.0
